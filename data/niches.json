@@ -1,22 +1,22 @@
 {
     "domain": "music.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "건반 악기",
+        "기타 및 현악기",
+        "음향 장비"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang music items."
+        "건반 악기": {
+            "topic": "Digital pianos, synthesizers, MIDI keyboards.",
+            "role": "Keyboard instrument expert."
         },
-        "수유/이유식": {
-            "topic": "music bottle sterilizers, music food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "기타 및 현악기": {
+            "topic": "Acoustic guitars, electric guitars, ukuleles.",
+            "role": "String instrument reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "음향 장비": {
+            "topic": "Microphones, audio interfaces, monitors.",
+            "role": "Recording gear specialist."
         }
     }
 }
