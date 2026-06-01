@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://music.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick music'
+title = 'GGG Pick 악기음향'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick music'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'music 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '건반 악기, 기타 및 현악기, 음향 장비 등 음악/악기 취미를 위한 쿠팡 로켓배송 특가 추천 상품 및 전문가 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick music'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick music"
+  sitename = "GGG Pick 악기음향"
   siteurl = "https://music.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
